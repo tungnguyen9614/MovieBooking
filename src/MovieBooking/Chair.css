@@ -1,0 +1,21 @@
+/* .chair {
+    width: 45px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.3s;
+} */
+
+/* .chair:hover {
+    background-color: aqua;
+} */
+
+/* .chair.booked {
+    background-color: red;
+}
+
+.chair.booking {
+    background-color: yellow;
+    color: black;
+} */
